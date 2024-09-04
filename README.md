@@ -6,7 +6,9 @@ This is a Perl script for converting a tab-delimited list of Dewey 23 numbers be
 
 This Perl script is intended to be used in a web page context and there are sample PHP files to demonstrate that.
 
-This code has been developed by the Winnetka-Northfield Public Library District
+This code has been developed by the Winnetka-Northfield Public Library District.  
+
 On GitHub this organization is represented by @wnpld
+
 Pull requests will be reviewed by @wnpld
 *	@wnpld
